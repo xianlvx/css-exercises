@@ -1,11 +1,11 @@
 /** CSS file for assignment **/
 
-.avatar .proportioned {
+.avatar.proportioned {
    height: auto;
    width: 300px;
 }
 
-.avatar .distorted {
+.avatar.distorted {
    height: 400px;
    width: 200px;
 }
